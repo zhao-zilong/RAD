@@ -1,7 +1,7 @@
 # Robust Anomaly Detection
 This repo is for the papers `Robust anomaly detection on unreliable data` (DSN 19) and `Enhancing Robustness of On-line Learning Models on Highly Noisy Data` (TDSC). 
 
-The data can be download via this [link](https://drive.google.com/drive/folders/1tYHKRZhGe3P_3u4MD__Yfq0kxttNgCLh?usp=sharing)
+The data can be download via this [link](https://drive.google.com/drive/folders/1tYHKRZhGe3P_3u4MD__Yfq0kxttNgCLh?usp=sharing).
 Be careful, the Google cloud center task dataset is highly skewed on the labels!
 
 Please cite these two papers using following bibtex:
